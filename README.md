@@ -6,6 +6,15 @@ Completed tasks are filtered and moved to a secondary list below where they can 
 
 State is stored in a React Context file named TaskContext.tsx.
 
+## To Start the Application
+
+```
+git clone https://github.com/alvinjtang/task-manager.git
+cd task-manager
+npm install
+npm run dev
+```
+
 ## Approach & Decisions
 
 #### File structure and modularity
